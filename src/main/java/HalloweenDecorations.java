@@ -1,5 +1,7 @@
 public class HalloweenDecorations {
 
-    //There are skeletons on the street
+    String decorSkeletons = "Skeletons on the street";
+    String decorPumpkins = "Pumpkins are craved";
+
 
 }
